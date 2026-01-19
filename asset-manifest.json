@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-vercel-deploy-demo/static/css/main.420a8814.css",
+    "main.js": "/react-vercel-deploy-demo/static/js/main.a92a0df6.js",
+    "static/js/453.b82a05a0.chunk.js": "/react-vercel-deploy-demo/static/js/453.b82a05a0.chunk.js",
+    "index.html": "/react-vercel-deploy-demo/index.html",
+    "main.420a8814.css.map": "/react-vercel-deploy-demo/static/css/main.420a8814.css.map",
+    "main.a92a0df6.js.map": "/react-vercel-deploy-demo/static/js/main.a92a0df6.js.map",
+    "453.b82a05a0.chunk.js.map": "/react-vercel-deploy-demo/static/js/453.b82a05a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.420a8814.css",
+    "static/js/main.a92a0df6.js"
+  ]
+}
